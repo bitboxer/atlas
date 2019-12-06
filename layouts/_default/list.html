@@ -7,15 +7,27 @@
   </div>
 </section>
 
-<section class="section">
-  <div class="container is-fluid">
-    <ul>
-      {{ range .Pages }}
-      <li>
-        <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
-      </li>
-      {{ end }}
-    </ul>
+<div class="columns">
+  <div class="column is-two-thirds">
+    <section class="section">
+      <div class="container is-fluid">
+        {{ range .Pages }}
+        <div class="box">
+          <article class="media">
+            <div class="media-content">
+              <div class="content">
+
+                <a href="{{.Permalink}}">
+                  <p class="title">{{.Title}}</p>
+                  <p class="subtitle">{{.Date.Format "2006-01-02"}}</p>
+                </a>
+              </div>
+            </div>
+          </article>
+        </div>
+        {{ end }}
+      </div>
+    </section>
   </div>
-</section>
+</div>
 {{ end }}
