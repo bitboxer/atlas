@@ -1,17 +1,21 @@
 {{ define "main" }}
-<main>
-  <article>
-    <header>
-      <h1 class="title">{{.Title}}</h1>
-    </header>
-    {{.Content}}
-  </article>
-  <ul>
-    {{ range .Pages }}
-    <li>
-      <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
-    </li>
-    {{ end }}
-  </ul>
-</main>
+<section class="section">
+  <div class="container is-fluid">
+    <h1 class="title is-1">{{.Title}}</h1>
+
+    <p class="subtitle"> {{.Content}}</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container is-fluid">
+    <ul>
+      {{ range .Pages }}
+      <li>
+        <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+</section>
 {{ end }}

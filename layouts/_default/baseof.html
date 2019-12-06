@@ -1,16 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
-  {{ partial "head" . }}
+{{ partial "head" . }}
 
-  <body>
-    {{ partial "header" . }}
+<body>
+  {{ partial "header" . }}
 
-    <section class="section">
-      <div class="container is-fluid">
-        {{ block "main" . }} {{ end }}
-      </div>
-    </section>
+  {{ block "main" . }} {{ end }}
 
-    {{ partial "footer" . }}
-  </body>
+  {{ partial "footer" . }}
+</body>
+
 </html>

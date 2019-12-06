@@ -2,4 +2,4 @@
 title: "The chess atlas blog"
 ---
 
-The chess atlas is part a knowledge base part a blog. Here is the blog part.
+The chess atlas is half knowledge-base half blog. Here is the half-blog part.
