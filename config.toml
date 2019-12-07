@@ -2,7 +2,6 @@ baseURL = "https://optimistic-kare-e17eb0.netlify.com/"
 languageCode = "en-us"
 title = "The chess atlas"
 
-
 [menu]
   [[menu.main]]
     indentifier = "home"
