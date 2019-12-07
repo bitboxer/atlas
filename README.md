@@ -1,5 +1,9 @@
-# The chess atlas website
+# Chess atlas
 
-Very early stage, so here is a todo list of things to improve:
+Chess atlas is half a blog half a knowledge base.
 
-- Menu doesn't work on mobile
+This is the source code of the website. It uses:
+
+- [Hugo](https://gohugo.io)
+- [Bulma](https://bulma.io)
+- [Bulmaswatch](https://jenil.github.io/bulmaswatch/)
