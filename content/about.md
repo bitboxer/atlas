@@ -4,6 +4,7 @@ menu:
   main:
     identifier: about
     name: About
+    weigth: 30
 ---
 
 A short to medium description of what chess atlas is.

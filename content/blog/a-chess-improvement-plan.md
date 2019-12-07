@@ -2,6 +2,10 @@
 title: "A Chess Improvement Plan"
 date: 2019-12-04T17:27:53+01:00
 draft: true
+menu:
+  main:
+    parent: blog
+    name: a-chess-improvement-plan
 ---
 
 # Why

@@ -2,14 +2,10 @@ baseURL = "https://optimistic-kare-e17eb0.netlify.com/"
 languageCode = "en-us"
 title = "The chess atlas"
 
+
 [menu]
   [[menu.main]]
     indentifier = "home"
     name = "Home"
     url = "/"
     weight = 10
-  [[menu.main]]
-    indentifier = "blog"
-    name = "Blog"
-    url = "/blog/"
-    weight = 20
