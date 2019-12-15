@@ -4,7 +4,7 @@ menu:
   main:
     identifier: blog
     name: Blog
-    weight: 20
+    weight: 30
 ---
 
 The chess atlas is half knowledge-base half blog. Here is the half-blog part.

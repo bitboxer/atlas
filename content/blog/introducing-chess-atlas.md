@@ -1,5 +1,5 @@
 ---
-title: "A Chess Improvement Plan"
+title: "Introducing Chess Atals"
 date: 2019-12-04T17:27:53+01:00
 draft: true
 summary: "As this is the first blog post on the chess atlas, an explanation of what this
@@ -9,13 +9,8 @@ anyway?), and the way I planned to procede (aka how am I going about this?)."
 menu:
   main:
     parent: blog
-    name: a-chess-improvement-plan
+    name: introducing-chess-atlas
 ---
-
-As this is the first blog post on the chess atlas, an explanation of what this
-website is about is in order. I'll go over what my motivations are (aka why am I
-even doing this?), what I intend to write about (aka what's a chess atlas
-anyway?), and the way I planned to procede (aka how am I going about this?).
 
 # Why
 
@@ -25,13 +20,14 @@ write about work related topics, but I don't care as much about writing about
 work as I used to do. Which is a perfect segue for the second reason. 
 
 
-At the time of writing, I'm a 37 years old, soon to be a father, married man.
-You can imagine, it's always busy. While you can find information (I'll be
-sharing my finding as we go) about adults wanting to get better at Chess, so far
-I couldn't find anything that can engage me long term. **Learning this game is
-overwhelming**, and most adults don't have enough time to get to their full
-potential. So writing is my way of making sure I make the most out of styding
-the game.
+At the time of writing, I'm a 37 years old and I recently became a father. You
+can imagine, it's always busy. While you can find information (I intend to
+provide a comphresensive reading list as I progress with my studies) about
+adults wanting to get better at Chess, so far I couldn't find anything that can
+engage me long term. **Learning this game is overwhelming**, and most adults
+don't have enough time to get to their full potential. Writing is my way of
+making sure I make the most out of styding the game. I retain information better
+if I write it down. So why not sharing?
 
 # What
 

@@ -1,0 +1,51 @@
+{{ define "main" }}
+<section class="section">
+    <div class="container is-fluid">
+        <h1 class="title is-1">{{.Title}}</h1>
+    </div>
+</section>
+
+<section class="section">
+    <div class="container is-fluid">
+        <div class="content">
+            {{.Content}}
+
+            <div class="tile is-ancestor">
+                <div class="tile is-parent">
+                    <article class="tile is-child box">
+                        <p class="title">Opening</p>
+                    </article>
+                </div>
+                <div class="tile is-parent">
+                    <article class="tile is-child box">
+                        <p class="title">Middlegame</p>
+                    </article>
+                </div>
+                <div class="tile is-parent">
+                    <article class="tile is-child box">
+                        <p class="title">Endgame</p>
+                </div>
+                </article>
+            </div>
+
+            <div class="tile is-ancestor">
+                <div class="tile is-parent">
+                    <article class="tile is-child box">
+                        <p class="title">Tactics</p>
+                    </article>
+                </div>
+                <div class="tile is-parent">
+                    <article class="tile is-child box">
+                        <p class="title">Strategy</p>
+                    </article>
+                </div>
+                <div class="tile is-parent">
+                    <article class="tile is-child box">
+                        <p class="title">Time management</p>
+                </div>
+                </article>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
