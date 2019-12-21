@@ -1,5 +1,5 @@
 ---
-title: "The Atlas Index"
+title: "The Atlas"
 menu:
   main:
     identifier: atlas

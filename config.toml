@@ -1,6 +1,6 @@
 baseURL = "https://chessatlas.net/"
 languageCode = "en-us"
-title = "The chess atlas"
+title = "Chess atlas"
 
 [menu]
   [[menu.main]]
