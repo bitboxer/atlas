@@ -1,5 +1,5 @@
 ---
-title: "About the chess atlas"
+title: "About chess atlas"
 menu:
   main:
     identifier: about
@@ -7,4 +7,4 @@ menu:
     weigth: 40
 ---
 
-A short to medium description of what chess atlas is.
+If you're new to this website, I suggest you read [introducing chess atlas]({{< ref "/blog/introducing-chess-atlas.md" >}}).
