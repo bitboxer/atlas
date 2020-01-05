@@ -94,3 +94,5 @@ There are a few things to say:
 - It's just a list of lists. There's no content yet and the idea is to provide
   it as I go while I study things. I will probably write a blog post for each
   section as they are now. And then expand each section from there.
+
+  Hope you enjoyed it and see you soon!
