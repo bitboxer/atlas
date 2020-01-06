@@ -28,7 +28,7 @@ Which is a perfect segue for the second reason.
 At the time of writing, I'm a 37 years old and recently became a father. You can
 imagine, it's always busy. While I found information (I intend to provide a
 comphresensive reading list as I progress with my studies) about adults wanting
-to get better at Chess, so far I couldn't find anything that can engage me long
+to get better at chess, so far I couldn't find anything that can engage me long
 term. **Learning this game is overwhelming**, and most adults don't have enough
 time to get to their full potential. Writing is my way of making sure I make the
 most out of styding the game. I retain information better if I write it down. So
@@ -40,9 +40,9 @@ I need to define what getting better at chess means. At least, I need my own
 definition so I can draft an initial plan. I want to underline initial as I
 don't believe in long term planning. I believe in taking into account the things
 you learn on the way, some of those will probably lead to a change of plans. But
-even making an initial plan seems hard,  **Chess is too vast and I don't want to
+even making an initial plan seems hard,  **chess is too vast and I don't want to
 get lost**. So, maybe, the word I'm looking for is map. Following this metaphore
-to its full extend was the spark that lead to this website. Think of Chess as
+to its full extend was the spark that lead to this website. Think of chess as
 uncharted territory. After you learn the rules of the game, you're left with an
 almost empty map. At sight though you can see the phases of the game:
 
@@ -61,7 +61,7 @@ I'm going to admit it: I absolutely love metapthor. Here's
 > An atlas is a collection of maps; it is typically a bundle of maps of Earth or
 > a region of Earth. 
 
-Now exchange Earth with Chess and you get my idea. Chess is an immense topic so
+Now exchange Earth with chess and you get my idea. Chess is an immense topic so
 *one* map is not going to cut it. I will be creating a collection of maps. Each
 place, again following the metaphore, will have its own section on this website.
 That way exploring its content should be easier (I love feedback, please [reach
@@ -72,13 +72,13 @@ out](mailto://hello@chessatlas.net)!)
 I have three goals with this website:
 
 - I want to write a lot
-- I want to map as much Chess knowdlege as possible
+- I want to map as much chess knowdlege as possible
 - I want to share my experience as an adult with a busy life trying to get
-  better at Chess
+  better at chess
 
-Now with those three in mind, the approach that I find more natural is to
-build the map in the open (the atlas itself) and provide diary entries (the blog
-part) as I go.
+With these goals in mind, the approach that I find more natural is to build the
+map in the open (the atlas itself) and provide diary entries (the blog part) as
+I go.
 
 In the next blog post, I'll be explaing where I'm at in the journey at the
 moment, what my current study plans are. 
