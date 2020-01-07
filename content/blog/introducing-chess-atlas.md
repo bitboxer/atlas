@@ -12,7 +12,7 @@ menu:
     name: introducing-chess-atlas
 ---
 
-As this is the first blog posy, an explanation of what the chess atlas is about
+As this is the first blog post, an explanation of what the chess atlas is about
 is in order. I'll go over what my motivations are (aka why am I  doing this?),
 what I intend to write about (aka what's a chess atlas anyway?), and the way I
 planned to procede (aka how am I going about this?).

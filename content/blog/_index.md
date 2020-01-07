@@ -1,5 +1,5 @@
 ---
-title: "The chess atlas blog"
+title: "The Chess Atlas blog"
 menu:
   main:
     identifier: blog
@@ -7,4 +7,4 @@ menu:
     weight: 30
 ---
 
-The chess atlas is half knowledge-base half blog. Here is the half-blog part.
+The Chess Atlas is half knowledge-base half blog. Here is the half-blog part.
