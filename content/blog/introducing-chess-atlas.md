@@ -50,9 +50,8 @@ almost empty map. At sight though you can see the phases of the game:
 - Middle-game
 - Endgame
 
-The idea is to draw a map as I go on this trip. I'll be providing details while
-exploring one of those three places. And I'll surely need to add places I can't
-even see at sight now that I'm starting the journey.
+The idea is to draw a map as I go on this trip. I'll be providing details while exploring one of those three places. And
+I'll surely need to add places I can't even see at sight now that I'm starting the journey.
 
 
 I'm going to admit it: I absolutely love metaphor. Here's
@@ -61,11 +60,9 @@ I'm going to admit it: I absolutely love metaphor. Here's
 > An atlas is a collection of maps; it is typically a bundle of maps of Earth or
 > a region of Earth. 
 
-Now exchange Earth with chess and you get my idea. Chess is an immense topic so
-*one* map is not going to cut it. I will be creating a collection of maps. Each
-place, again following the metaphor, will have its own section on this website.
-That way exploring its content should be easier (I love feedback, please [reach
-out](mailto://hello@chessatlas.net)!)
+Now exchange Earth with chess and you get my idea. Chess is an immense topic so *one* map is not going to cut it. I will
+be creating a collection of maps. Each place, again following the metaphor, will have its own section on this website.
+That way exploring its content should be easier (I love feedback, please [reach out](mailto://hello@chessatlas.net)!)
 
 # How
 
@@ -73,27 +70,20 @@ I have three goals with this website:
 
 - I want to write a lot
 - I want to map as much chess knowledge as possible
-- I want to share my experience as an adult with a busy life trying to get
-  better at chess
+- I want to share my experience as an adult with a busy life trying to get better at chess
 
-With these goals in mind, the approach that I find more natural is to build the
-map in the open (the atlas itself) and provide diary entries (the blog part) as
-I go.
+With these goals in mind, the approach that I find more natural is to build the map in the open (the atlas itself) and
+provide diary entries (the blog part) as I go.
 
-In the next blog post, I'll be explaining where I'm at in the journey at the
-moment, what my current study plans are. 
+In the next blog post, I'll be explaining where I'm at in the journey at the moment, what my current study plans are. 
 
-As for the atlas itself, I will provide a list of lists in the [atlas
-section](/content/atlas/_index.md) for now. The long term plan though is a
-little more complex and it's an interesting project on its own. The metaphor is
-strong so I could go as far as providing a google maps experience. I find the
-idea stimulating but somehow too complex. One other idea is to provide an
-interactive [mind map](https://en.wikipedia.org/wiki/Mind_map) which would fit
-the atlas well enough (mind maps have too much focus on hierarchy though and I'm
-unsure how relevant this would be here).
+As for the atlas itself, I will provide a list of lists in the [atlas section](/content/atlas/_index.md) for now. The
+long term plan though is a little more complex and it's an interesting project on its own. The metaphor is strong so I
+could go as far as providing a google maps experience. I find the idea stimulating but somehow too complex. One other
+idea is to provide an interactive [mind map](https://en.wikipedia.org/wiki/Mind_map) which would fit the atlas well
+enough (mind maps have too much focus on hierarchy though and I'm unsure how relevant this would be here).
 
 
-As you can see, everything on this website is a work in progress and I intend to
-keep it that way.
+As you can see, everything on this website is a work in progress and I intend to keep it that way.
 
 Hope you enjoyed it and see you soon!
