@@ -13,12 +13,14 @@ you got the same bug. The passion for the game is hard to explain in words, ther
 its logical thinking, its strategic insights, not to mention the beauty of a [perfect
 information](https://en.wikipedia.org/wiki/Perfect_information) game.
 
-When you start playing chess and get the hang of it, soon enough you start loosing matches and you have idea why. It can
-become quite frustrating and some people lose interest. But what if you don't? What if you want to get better and find
+When you start playing chess and get the hang of it, soon enough you start loosing matches and you have no idea why. It
+can become quite frustrating and you may lose interest. But what if you don't? What if you want to get better and find
 your limits? Where do you start? 
 
-In this blog post, I'm sharing how I'm approaching the study of the game as an adult with a busy life. At this point,
-some contextual information about me as a chess player may be helpful. 
+In this blog post, I'm sharing how I'm approaching the study of the game as an adult with a busy life. I have two loose
+goals with chess: I want to have fun first and always have a feeling I'm getting better. I think it's worth underlining
+that I don't have a specific rating in mind. I'm probably too old already to ever become titled, so I don't think about
+it much. At this point though, it's helpful to share some contextual information about me.
 
 
 I grew up in a small town north of Napoli. One of my uncles, a club level chess player, taught me the game when I was
