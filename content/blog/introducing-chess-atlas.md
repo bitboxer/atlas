@@ -1,6 +1,6 @@
 ---
 title: "Introducing Chess Atlas"
-date: 2019-12-21T10:27:53+01:00
+date: 2020-01-17T10:27:53+01:00
 draft: false
 summary: "As this is the first blog post on the chess atlas, an explanation of what this
 website is about is in order. I'll go over what my motivations are (aka why am I
