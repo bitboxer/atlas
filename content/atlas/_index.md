@@ -7,4 +7,4 @@ menu:
     weight: 20
 ---
 
-The chess atlas is half knowledge-base half blog. Here is the knowledge-base.
+The chess atlas is half a knowledge-base half a blog. Here is the knowledge-base.

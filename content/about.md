@@ -1,5 +1,5 @@
 ---
-title: "About chess atlas"
+title: "About Chess Atlas"
 menu:
   main:
     identifier: about
