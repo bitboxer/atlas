@@ -8,6 +8,10 @@
   {{ $style := resources.Get "sass/main.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
   <link rel="stylesheet" href="{{ $style.Permalink }}">
 
+  {{ with .OutputFormats.Get "rss" -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+  {{ end -}}
+  
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=A0mXGywL8b">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=A0mXGywL8b">
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=A0mXGywL8b">
